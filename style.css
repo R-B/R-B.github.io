@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:500');
+
 /* Reset */
 
 html, body, div, span, applet, object, iframe,
@@ -45,8 +47,6 @@ table {
 }
 
 /* End Reset */
-
-@import url('https://fonts.googleapis.com/css?family=Work+Sans:500');
 
 html {
   font-family: 'Work Sans', sans-serif;
