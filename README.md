@@ -1,1 +1,4 @@
-Robbie is an interdependent designer from Belfast, currently living in London. He is interested in developing visual narratives and cooperative working structures.
+Robbie Blundell
+I am an interdependant graphic and digital designer from Belfast, living in London. 
+Currently I work on a freelance basis, designing identities and digital platforms with cultural and political organisations.
+I am also part of Evening Class
