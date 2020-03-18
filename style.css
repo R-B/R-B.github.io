@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans:500');
+@import url('https://github.com/brycewilner/Standard/blob/master/webfonts/standard-book-webfont.woff');
 
 /* Reset */
 
@@ -49,7 +49,7 @@ table {
 /* End Reset */
 
 html {
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Standard', sans-serif;
   font-size: 22px;
 }
 
