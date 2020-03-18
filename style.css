@@ -50,7 +50,7 @@ table {
 
 html {
   font-family: 'Standard', sans-serif;
-  font-size: 28px;
+  font-size: 22px;
 }
 
 body {
@@ -84,7 +84,7 @@ a:focus {
 
 @media screen and (min-width: 768px) {
   body {
-    margin: 1.5em;
+    margin: 1em;
     height: calc(100vh - 3em);
   }
   .info {
