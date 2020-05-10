@@ -54,8 +54,8 @@ html {
 }
 
 body {
-  background-color: #649458;
-  color: black;
+  background-color: #000000;
+  color: #58947d;
   margin: 1em;
   height: calc(100vh - 2em);
   display: flex;
