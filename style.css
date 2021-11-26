@@ -50,12 +50,12 @@ table {
 
 html {
   font-family: 'Standard', sans-serif;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 body {
-  background-color: #000000;
-  color: #58947d;
+  background-color: #808000;
+  color: #000000;
   margin: 1em;
   height: calc(100vh - 2em);
   display: flex;
