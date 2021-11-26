@@ -82,13 +82,13 @@ a:focus {
 
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1440px) {
   body {
     margin: 1em;
     height: calc(100vh - 3em);
   }
   .info {
-    width: 28em;
-    max-width: 60vw;
+    width: 60em;
+    max-width: 100vw;
   }
 }
